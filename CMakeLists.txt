@@ -1,4 +1,4 @@
-project(Path_Planning)
+project(PathPlanner)
 
 cmake_minimum_required (VERSION 3.5)
 
